@@ -11,4 +11,5 @@ To analyze HR data in Excel and identify key trends in employee attrition, perfo
 - Add filters and design layout
 
 ## Dashboard
+<img width="1165" height="581" alt="DASHBOARD IMG" src="https://github.com/user-attachments/assets/245f83d1-afa2-46ee-92ed-19eb10dbe71d" />
 
